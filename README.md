@@ -1,6 +1,6 @@
 # React Todo List
 
-![Todo List Screenshot](./screenshot.png)
+![Todo List Screenshot](src/screenshot.png)
 
 ## Overview
 
