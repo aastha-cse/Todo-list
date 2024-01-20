@@ -9,7 +9,7 @@
 
 body {
   /* background: #b34603; */
-  background-image: url('p1.png');
+  background-image: url('background.png');
   display: flex;
   justify-content: center;
   align-items: center;

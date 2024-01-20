@@ -40,5 +40,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "this is a task managment project",
+  "main": "index.js",
+  "repository": "https://github.com/aastha-cse/Todo-list.git",
+  "author": "aastha-cse <guptaaastha824@gmail.com>",
+  "license": "MIT"
 }
