@@ -22,13 +22,13 @@ Welcome to the React Todo List – a user-friendly solution for managing daily t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git 
+git clone https://github.com/your-username/Todo-list.git 
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-todo-list
+cd Todo-list
 ```
 
 3. Install dependencies:
